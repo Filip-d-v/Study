@@ -1,0 +1,14 @@
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\WeeklyProjectVersion3.exe
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\WeeklyProjectVersion3.deps.json
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\WeeklyProjectVersion3.runtimeconfig.json
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\WeeklyProjectVersion3.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\WeeklyProjectVersion3.pdb
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\refint\WeeklyProjectVersion3.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.pdb
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\WeeklyProjectVersion3.genruntimeconfig.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\ref\WeeklyProjectVersion3.dll

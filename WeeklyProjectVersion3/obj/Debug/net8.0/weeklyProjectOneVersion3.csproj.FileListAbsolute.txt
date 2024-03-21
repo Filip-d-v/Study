@@ -1,0 +1,14 @@
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\weeklyProjectOneVersion3.exe
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\weeklyProjectOneVersion3.deps.json
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\weeklyProjectOneVersion3.runtimeconfig.json
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\weeklyProjectOneVersion3.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\bin\Debug\net8.0\weeklyProjectOneVersion3.pdb
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\refint\weeklyProjectOneVersion3.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.pdb
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\weeklyProjectOneVersion3.genruntimeconfig.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectVersion3\WeeklyProjectVersion3\obj\Debug\net8.0\ref\weeklyProjectOneVersion3.dll
