@@ -1,0 +1,14 @@
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\bin\Debug\net8.0\WeeklyProjectSearchExp.exe
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\bin\Debug\net8.0\WeeklyProjectSearchExp.deps.json
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\bin\Debug\net8.0\WeeklyProjectSearchExp.runtimeconfig.json
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\bin\Debug\net8.0\WeeklyProjectSearchExp.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\bin\Debug\net8.0\WeeklyProjectSearchExp.pdb
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.AssemblyInfoInputs.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.AssemblyInfo.cs
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\refint\WeeklyProjectSearchExp.dll
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.pdb
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\WeeklyProjectSearchExp.genruntimeconfig.cache
+C:\Users\Filip\source\repos\Examplecodefolder\WeeklyProjectSearchExp\WeeklyProjectSearchExp\obj\Debug\net8.0\ref\WeeklyProjectSearchExp.dll
